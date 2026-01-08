@@ -10,13 +10,11 @@ Die App erkennt gängige 1D- und 2D-Codes (z. B. EAN, Code 128, Code 39, QR, Dat
 
 ## GitHub Pages (Marketing, Support, Datenschutz)
 
-Dieses Repository enthält GitHub-Pages-Seiten unter `docs/`, die du z. B. für App Store Connect verwenden kannst:
+Dieses Repository enthält GitHub-Pages-Seiten unter `docs/`:
 
 - Marketing / Landing Page: `docs/index.md`
 - Support: `docs/support.md`
 - Datenschutz: `docs/privacy.md`
-
-Wenn GitHub Pages aktiviert ist (Branch `main`, Folder `/docs`), sind die Seiten typischerweise erreichbar unter:
 
 - https://idual.github.io/iDual-Scanner/
 - https://idual.github.io/iDual-Scanner/support
