@@ -8,15 +8,15 @@ Stand: 2026-01-08
 
 ## Kurzfassung
 
-iDual Scanner verarbeitet Barcodes lokal auf deinem iPhone oder iPad und kann Scan-Daten an einen von dir gewählten Zielrechner im lokalen Netzwerk übertragen. Es gibt kein Tracking und keine Werbung.
+iDual Scanner verarbeitet Barcodes lokal auf deinem iPhone oder iPad und kann Scan Daten an einen von dir gewählten Zielrechner im lokalen Netzwerk übertragen. Es gibt kein Tracking und keine Werbung.
 
 ## Welche Daten werden verarbeitet
 
 Beim Scannen und optionalen Übertragen können folgende Daten an den Zielrechner gesendet werden:
 
-- Barcode-Inhalte (der erkannte Code)
+- Barcode Inhalte (der erkannte Code)
 - Zeitstempel (Timestamp)
-- Geräte-ID (eine technische Kennung, um Sender unterscheiden zu können)
+- Geräte ID (eine technische Kennung, um Sender unterscheiden zu können)
 
 ## Zweck der Verarbeitung
 
@@ -27,13 +27,13 @@ Beim Scannen und optionalen Übertragen können folgende Daten an den Zielrechne
 
 Wenn du die Übertragungsfunktion nutzt, werden Daten an den von dir konfigurierten Zielrechner im lokalen Netzwerk gesendet (z. B. PC oder Mac Receiver).
 
-Die Receiver-Apps findest du hier:
-https://github.com/idual/iDual-Scanner
+Receiver Apps, Beispiele und Updates:  
+[iDual Scanner Receiver Apps auf GitHub](https://github.com/idual/iDual-Scanner)
 
 ## Speicherung
 
 - iDual Scanner speichert Einstellungen lokal auf dem Gerät (z. B. Empfänger, Optionen).
-- Scan-Daten können in der App angezeigt werden. Eine dauerhafte Speicherung erfolgt nur, wenn du sie im Receiver oder in deiner Infrastruktur speicherst.
+- Scan Daten können in der App angezeigt werden. Eine dauerhafte Speicherung erfolgt nur, wenn du sie im Receiver oder in deiner Infrastruktur speicherst.
 
 ## Tracking und Werbung
 
@@ -44,14 +44,12 @@ https://github.com/idual/iDual-Scanner
 ## Berechtigungen
 
 - Kamera: erforderlich zum Scannen von Barcodes
-- Lokales Netzwerk: erforderlich, um Empfänger zu finden (Bonjour/mDNS) und Daten zu übertragen
+- Lokales Netzwerk: erforderlich, um Empfänger zu finden (Bonjour und mDNS) und Daten zu übertragen
 
 ## Sicherheit
 
-Die Übertragung erfolgt in deinem lokalen Netzwerk. Bitte beachte, dass die Sicherheit zusätzlich von deiner WLAN-Konfiguration und deinem Zielrechner abhängt (Firewall, Zugriffsrechte, Netzsegmentierung).
+Die Übertragung erfolgt in deinem lokalen Netzwerk. Bitte beachte, dass die Sicherheit zusätzlich von deiner WLAN Konfiguration und deinem Zielrechner abhängt (Firewall, Zugriffsrechte, Netzsegmentierung).
 
-## Kontakt
+## Kontakt und Impressum
 
-Ersetze die Platzhalter-Adresse durch deine Datenschutz-Mail:
-
-privacy@DEINE-DOMAIN.TLD
+Kontakt und Impressum: <http://idual.de/impressum.html>
