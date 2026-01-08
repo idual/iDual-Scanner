@@ -1,32 +1,32 @@
-# iDual Scanner – GitHub Pages Seiten (Support / Marketing / Datenschutz)
+# iDual Scanner
 
-Dieses Paket enthält fertige Markdown-Seiten für GitHub Pages, die du als:
+iDual Scanner ist eine iPhone- und iPad-App zum schnellen Scannen von Barcodes und zur Übertragung der Ergebnisse an einen Zielrechner im lokalen Netzwerk.
 
-- **Marketing-URL** (Landing Page)
-- **Support-URL**
-- **Datenschutz-URL**
+Die App erkennt gängige 1D- und 2D-Codes (z. B. EAN, Code 128, Code 39, QR, DataMatrix) und kann die Scan-Ergebnisse an Receiver-Apps auf macOS oder Windows senden. Die Empfänger-Suche kann per Bonjour/mDNS erfolgen.
 
-in App Store Connect verwenden kannst.
+## Receiver-Apps
 
-## Inhalt
+- Receiver-Apps, Beispiele und Updates: https://github.com/idual/iDual-Scanner
 
-- `docs/index.md` → Marketing / Landing Page
-- `docs/support.md` → Support
-- `docs/privacy.md` → Datenschutz
+## GitHub Pages (Marketing, Support, Datenschutz)
 
-## GitHub Pages aktivieren
+Dieses Repository enthält GitHub-Pages-Seiten unter `docs/`, die du z. B. für App Store Connect verwenden kannst:
 
-1. GitHub → **Settings** → **Pages**
-2. **Build and deployment**
-   - Source: **Deploy from a branch**
-   - Branch: `main`
-   - Folder: `/docs`
-3. Speichern. Danach zeigt GitHub dir die URL der Seite an.
+- Marketing / Landing Page: `docs/index.md`
+- Support: `docs/support.md`
+- Datenschutz: `docs/privacy.md`
 
-## App Store Connect Zuordnung
+Wenn GitHub Pages aktiviert ist (Branch `main`, Folder `/docs`), sind die Seiten typischerweise erreichbar unter:
 
-- Marketing-URL: `.../` (zeigt `index.md`)
-- Support-URL: `.../support` (oder `.../support.html`)
-- Datenschutz-URL: `.../privacy` (oder `.../privacy.html`)
+- https://idual.github.io/iDual-Scanner/
+- https://idual.github.io/iDual-Scanner/support
+- https://idual.github.io/iDual-Scanner/privacy
 
-Hinweis: Je nach Pages-Theme/Setup können Endungen variieren. Standardmäßig funktionieren die Seiten auch mit `.html`.
+## Mitwirken / Feedback
+
+Issues und Verbesserungsvorschläge bitte hier einreichen:
+https://github.com/idual/iDual-Scanner/issues
+
+## Impressum
+
+http://idual.de/impressum.html
