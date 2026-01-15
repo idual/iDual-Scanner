@@ -8,7 +8,7 @@ iDual Scanner ist eine iPhone und iPad App zum Scannen von Barcodes und zum Übe
 
 ## Appstore
 Die App für iOS kann hier geladen werden:
-[iDual Scanner](https://appstore.de)
+[iDual Scanner](https://apps.apple.com/de/app/idual-scanner/id6757312226)
 
 ## Schnellstart
 
